@@ -19,4 +19,5 @@
 
 ## Initialize Directory
 ## If your project is not in /home/go/src, then you can do any where and need to execute below commond in project.
-       go mod init goLangFirst
+       go mod init student-service
+       go mod tidy
